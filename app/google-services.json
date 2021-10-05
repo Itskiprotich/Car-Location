@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861444798542",
+    "project_id": "upwork-d0803",
+    "storage_bucket": "upwork-d0803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861444798542:android:6804f9fbd5815d9526eb1f",
+        "android_client_info": {
+          "package_name": "com.imeja.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861444798542-m1kp2v8ptalsj4t6ppql6qprv44mf299.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9v12wKEc0XlSE8BWL8UWGniqBZ7zOrMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861444798542-m1kp2v8ptalsj4t6ppql6qprv44mf299.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
